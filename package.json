@@ -1,0 +1,27 @@
+{
+  "name": "emulated-api",
+  "version": "1.0.0",
+  "description": "Emulated local REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraigo/emulated-rest-api.git"
+  },
+  "keywords": [
+    "Emulated",
+    "REST",
+    "API"
+  ],
+  "author": "Francisco Igor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraigo/emulated-rest-api/issues"
+  },
+  "homepage": "https://github.com/fraigo/emulated-rest-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
